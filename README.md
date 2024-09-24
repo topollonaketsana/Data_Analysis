@@ -1,2 +1,3 @@
 # Data_Analysis
-## Analysing both astronomical data and general data using ML
+Overview
+This project focuses on analyzing both astronomical and general datasets using Python.
