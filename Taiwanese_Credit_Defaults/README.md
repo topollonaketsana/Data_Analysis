@@ -15,7 +15,7 @@ The data is collected from this [archive](https://archive.ics.uci.edu/dataset/35
   -      X1	         LIMIT_BAL		
   -      X2	         SEX		
   -      X3	         Education Level	
-  -      X4	         Marital Status	MARRIAGE		
+  -      X4	         Marital Status			
   -      X5	         AGE		
   -      X6	         PAY_0		
   -      X7	         PAY_2		
